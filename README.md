@@ -1,2 +1,50 @@
 # Androids-Basics-Udacity-Musicality
-Mock Music Player App
+Project from my Androids Basics Udacity Course
+
+(Currently reformating code to be be able to upload on github) 
+So for the meantime email me for file: jacquelyngboyor@gmail.com
+- Mock Music Player App
+- Inspired by Studio Ghibli scores
+- Actual music playing functionality not available
+- App contains custom objects for storing informastion
+- Contains custom adapter
+- Use of Fragments
+
+### Requirements
+```
+* Android Studio
+* Android device with operating system = Ice Cream Sandwhich or above
+  * (Or use an emulator provided by Android Studio)
+```
+### Importing into Android Studio
+```
+1. If you haven't already, Download this project's Zip File then Start Android Studio.
+2. Extract Zip File and save to a safe location.
+3. From Android Studio Menu, select File > New > Import Project.
+4. Select project folder from wherever you saved it.
+5. Click Ok
+6. ***If necessary, Install any recommended Tool updates.
+```
+
+Intro Screen | Dashboard | Dashboard Cont...
+--------- | ---------- | --------
+<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/ct0aLw/Screenshot_2017_11_10_09_27_37.png" border="1" width="270px"> 
+
+<img src="https://preview.ibb.co/dkTjDG/Screenshot_2017_11_10_09_27_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/mNfxYG/Screenshot_2017_11_10_09_27_18.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fAWRSb/Screenshot_2017_11_10_09_27_08.png" border="1" width="270px"> 
+
+<img src="https://preview.ibb.co/e6UrtG/Screenshot_2017_11_10_09_26_56.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gFGh0w/Screenshot_2017_11_10_09_26_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/iQtUfw/Screenshot_2017_11_10_09_26_11.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/niCcYG/Screenshot_2017_11_10_09_25_58.png" border="1" width="270px"> | <img src="https://preview.ibb.co/k1LWtG/Screenshot_2017_11_10_09_25_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/epRh0w/Screenshot_2017_11_10_09_25_33.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/iRMRSb/Screenshot_2017_11_10_09_25_00.png" border="1" width="270px"> | <img src="https://preview.ibb.co/hrS0nb/Screenshot_2017_11_10_09_24_41.png" border="1" width="270px"> | <img src="https://preview.ibb.co/h67cYG/Screenshot_2017_11_10_09_24_31.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/dUHN0w/Screenshot_2017_11_10_09_23_41.png" border="1" width="270px"> | <img src="https://preview.ibb.co/bzkxYG/Screenshot_2017_11_10_09_22_59.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fhkaLw/Screenshot_2017_11_10_09_22_49.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/hNED7b/Screenshot_2017_11_10_09_22_19.png" border="1" width="270px"> | <img src="https://preview.ibb.co/ko4D7b/Screenshot_2017_11_10_09_22_03.png" border="1" width="270px"> | <img src="https://preview.ibb.co/cfQxYG/Screenshot_2017_11_10_09_21_54.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/fc7pfw/Screenshot_2017_11_10_09_21_43.png" border="1" width="270px"> | <img src="https://preview.ibb.co/dZkQLw/Screenshot_2017_11_10_09_21_30.png" border="1" width="270px"> | <img src="https://preview.ibb.co/miXSYG/Screenshot_2017_11_10_09_21_22.png" border="1" width="270px">
+
+<img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">
+
+#### Disclaimer
+```None of the images used in this app belong to me.```
