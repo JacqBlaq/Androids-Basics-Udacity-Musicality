@@ -30,7 +30,7 @@ So for the meantime email me for file: jacquelyngboyor@gmail.com
 6. ***If necessary, Install any recommended Tool updates.
 ```
 
-|Intro Screen | Intro Screen Cont... | Dashboard Cont...|
+|Intro Screen | Intro Screen Cont... | Princess Mononoke Play Fragment|
 |:--------- |:----------:|---------:|
 |<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px">|<img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">|<img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px">|
 
