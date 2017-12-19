@@ -30,23 +30,34 @@ So for the meantime email me for file: jacquelyngboyor@gmail.com
 6. ***If necessary, Install any recommended Tool updates.
 ```
 
-|Intro Screen | Dashboard | Dashboard Cont...|
-|--------- | ---------- | --------|
-|<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">| 
+|Intro Screen | Intro Screen Cont... | Dashboard Cont...|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px">|<img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">|<img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/dkTjDG/Screenshot_2017_11_10_09_27_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/mNfxYG/Screenshot_2017_11_10_09_27_18.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fAWRSb/Screenshot_2017_11_10_09_27_08.png" border="1" width="270px">|
+|Ponyo Play fragment|Howl's Moving Castle Play Fragment|Totoro Play Fragment|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/dkTjDG/Screenshot_2017_11_10_09_27_26.png" border="1" width="270px">|<img src="https://preview.ibb.co/mNfxYG/Screenshot_2017_11_10_09_27_18.png" border="1" width="270px">|<img src="https://preview.ibb.co/fAWRSb/Screenshot_2017_11_10_09_27_08.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/e6UrtG/Screenshot_2017_11_10_09_26_56.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gFGh0w/Screenshot_2017_11_10_09_26_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/iQtUfw/Screenshot_2017_11_10_09_26_11.png" border="1" width="270px">|
+|Spirited Away Play Fragment|Princess Mononoke Song List|Kiki's Delivery Service Song list|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/e6UrtG/Screenshot_2017_11_10_09_26_56.png" border="1" width="270px">|<img src="https://preview.ibb.co/gFGh0w/Screenshot_2017_11_10_09_26_26.png" border="1" width="270px">|<img src="https://preview.ibb.co/iQtUfw/Screenshot_2017_11_10_09_26_11.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/niCcYG/Screenshot_2017_11_10_09_25_58.png" border="1" width="270px"> | <img src="https://preview.ibb.co/k1LWtG/Screenshot_2017_11_10_09_25_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/epRh0w/Screenshot_2017_11_10_09_25_33.png" border="1" width="270px">|
+|Ponyo Song List|Howl's Moving Castle Song List|Totoro Song List|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/niCcYG/Screenshot_2017_11_10_09_25_58.png" border="1" width="270px">|<img src="https://preview.ibb.co/k1LWtG/Screenshot_2017_11_10_09_25_46.png" border="1" width="270px">|<img src="https://preview.ibb.co/epRh0w/Screenshot_2017_11_10_09_25_33.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/iRMRSb/Screenshot_2017_11_10_09_25_00.png" border="1" width="270px"> | <img src="https://preview.ibb.co/hrS0nb/Screenshot_2017_11_10_09_24_41.png" border="1" width="270px"> | <img src="https://preview.ibb.co/h67cYG/Screenshot_2017_11_10_09_24_31.png" border="1" width="270px">|
+|Spirited Away Song List|Credit Card Payment Actvity|Credit Card Payment Actvity|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/iRMRSb/Screenshot_2017_11_10_09_25_00.png" border="1" width="270px">|<img src="https://preview.ibb.co/hrS0nb/Screenshot_2017_11_10_09_24_41.png" border="1" width="270px">|<img src="https://preview.ibb.co/h67cYG/Screenshot_2017_11_10_09_24_31.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/dUHN0w/Screenshot_2017_11_10_09_23_41.png" border="1" width="270px"> | <img src="https://preview.ibb.co/bzkxYG/Screenshot_2017_11_10_09_22_59.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fhkaLw/Screenshot_2017_11_10_09_22_49.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/hNED7b/Screenshot_2017_11_10_09_22_19.png" border="1" width="270px"> | <img src="https://preview.ibb.co/ko4D7b/Screenshot_2017_11_10_09_22_03.png" border="1" width="270px"> | <img src="https://preview.ibb.co/cfQxYG/Screenshot_2017_11_10_09_21_54.png" border="1" width="270px">|
+|Credit Card Payment Actvity|Purchase Songs Fragment|Purchase Songs Fragment(Checked)|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/dUHN0w/Screenshot_2017_11_10_09_23_41.png" border="1" width="270px">|<img src="https://preview.ibb.co/fhkaLw/Screenshot_2017_11_10_09_22_49.png" border="1" width="270px">|<img src="https://preview.ibb.co/bzkxYG/Screenshot_2017_11_10_09_22_59.png" border="1" width="270px">|
 
-|<img src="https://preview.ibb.co/fc7pfw/Screenshot_2017_11_10_09_21_43.png" border="1" width="270px"> | <img src="https://preview.ibb.co/dZkQLw/Screenshot_2017_11_10_09_21_30.png" border="1" width="270px"> | <img src="https://preview.ibb.co/miXSYG/Screenshot_2017_11_10_09_21_22.png" border="1" width="270px">|
+|Song Library|Home Page|Purchase Songs Fragment(Checked)|
+|:--------- |:----------:|---------:|
+|<img src="https://preview.ibb.co/hNED7b/Screenshot_2017_11_10_09_22_19.png" border="1" width="270px">|<img src="https://preview.ibb.co/ko4D7b/Screenshot_2017_11_10_09_22_03.png" border="1" width="270px">|
 
 
 #### Disclaimer
