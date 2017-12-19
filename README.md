@@ -1,6 +1,10 @@
 # Androids-Basics-Udacity-Musicality
 Project from my Androids Basics Udacity Course
 
+### Project Overview
+"The goal is to design and create the structure of a Music app which would allow a user to play audio files. There are many music player apps, and they make a wide variety of design choices. It will be your job to decide what kind of music app your structure would turn into and build out that structure using intents. Will you build an app to play music from the user’s library of music? Will you build an app to stream random songs from a database? Will you build a musical suggestion engine? Those choices are up to you!"
+
+
 (Currently reformating code to be be able to upload on github) 
 So for the meantime email me for file: jacquelyngboyor@gmail.com
 - Mock Music Player App
@@ -26,8 +30,8 @@ So for the meantime email me for file: jacquelyngboyor@gmail.com
 6. ***If necessary, Install any recommended Tool updates.
 ```
 
-Intro Screen | Dashboard | Dashboard Cont...
---------- | ---------- | --------
+|Intro Screen | Dashboard | Dashboard Cont...|
+|--------- | ---------- | --------|
 <img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/ct0aLw/Screenshot_2017_11_10_09_27_37.png" border="1" width="270px"> 
 
 <img src="https://preview.ibb.co/dkTjDG/Screenshot_2017_11_10_09_27_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/mNfxYG/Screenshot_2017_11_10_09_27_18.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fAWRSb/Screenshot_2017_11_10_09_27_08.png" border="1" width="270px"> 
