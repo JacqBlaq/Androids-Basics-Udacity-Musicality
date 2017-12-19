@@ -32,7 +32,7 @@ So for the meantime email me for file: jacquelyngboyor@gmail.com
 
 |Intro Screen | Dashboard | Dashboard Cont...|
 |--------- | ---------- | --------|
-<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/ct0aLw/Screenshot_2017_11_10_09_27_37.png" border="1" width="270px"> 
+|<img src="https://preview.ibb.co/hKSY7b/Screenshot_2017_11_10_09_28_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/gQfWtG/Screenshot_2017_11_10_09_27_46.png" border="1" width="270px"> | <img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">| 
 
 |<img src="https://preview.ibb.co/dkTjDG/Screenshot_2017_11_10_09_27_26.png" border="1" width="270px"> | <img src="https://preview.ibb.co/mNfxYG/Screenshot_2017_11_10_09_27_18.png" border="1" width="270px"> | <img src="https://preview.ibb.co/fAWRSb/Screenshot_2017_11_10_09_27_08.png" border="1" width="270px">|
 
@@ -48,7 +48,6 @@ So for the meantime email me for file: jacquelyngboyor@gmail.com
 
 |<img src="https://preview.ibb.co/fc7pfw/Screenshot_2017_11_10_09_21_43.png" border="1" width="270px"> | <img src="https://preview.ibb.co/dZkQLw/Screenshot_2017_11_10_09_21_30.png" border="1" width="270px"> | <img src="https://preview.ibb.co/miXSYG/Screenshot_2017_11_10_09_21_22.png" border="1" width="270px">|
 
-<img src="https://preview.ibb.co/cOmAnb/Screenshot_2017_11_10_09_20_59.png" border="1" width="270px">
 
 #### Disclaimer
 ```None of the images used to create this app belong to me.```
